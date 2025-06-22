@@ -9,7 +9,7 @@
   <meta name="keywords" content="">
 
   <!-- Favicons -->
-  <!-- <link href="assets/img/favicon.png" rel="icon"> -->
+  <link href="assets/img/medialuna.png" rel="icon">
   <!-- <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
 
   <!-- Fonts -->
@@ -51,7 +51,7 @@
         <ul>
           <li><a href="#hero" class="active">Inicio</a></li>
           <li><a href="#about">Acerca de</a></li>
-          <li><a href="#menu">Menu</a></li>
+          <li><a href="#menu">Men&uacute;</a></li>
           <li><a href="#book-a-table">Reservacion</a></li>
           <li><a href="#events">Eventos</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
@@ -101,7 +101,7 @@
 
               <div class="btn-group">
                 <a href="#book-a-table" class="btn btn-book">Reservar una mesa</a>
-                <a href="#menu" class="btn btn-menu">Explora nuestro menu</a>
+                <a href="#menu" class="btn btn-menu">Explora nuestro men&uacute;</a>
               </div>
 
               <div class="social-links">
@@ -168,7 +168,7 @@
               <h3>La Esencia de Mun Club</h3>
               <p class="fst-italic">Ubicado en San Andr&eacute;s, Playa Encantada, Mun Club Acapulco es un oasis cerca de laguna de Tres Palos que te transportar&aacute; a un estado de total relajaci&oacute;n.</p>
               <p>Nacido de un sue&ntilde;o por traerle a los turistas y acapulque&ntilde;os un concepto &uacute;nico que abraza la belleza de la naturaleza, 
-                Mun Club es un lugar que te har&aacute; vivir momentos inolvidables. &iexcl;Ven a disfrutar y descubrir Mun Club, el encanto de una jungla en Acapulco!</p>
+                Mun Club es un lugar que te har&aacute; vivir momentos inolvidables. &iexcl;Ven a disfrutar y descubrir, el encanto de una jungla en Acapulco!</p>
 
               <div class="chef-signature mt-4">
                 <div class="row align-items-center">
@@ -187,7 +187,7 @@
           <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="300">
             <div class="about-image-wrapper">
              <img src="assets/img/club/_VR_5437.jpg" class="img-fluid main-image shadow" style="width: 600px;" alt="En familia">
-              <img src="assets/img/club/espectaculo.jpg" class="img-fluid accent-image shadow" style="width: 320px;" alt="Espectaculo">
+              <img src="assets/img/club/espectaculo.jpg" class="img-fluid accent-image shadow" style="width: 350px;" alt="Espectaculo">
               <!-- <span class="establishment-year d-flex align-items-center justify-content-center text-center">Est. 2005</span> -->
             </div>
           </div>
@@ -197,40 +197,41 @@
           <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
             <div class="feature-box">
               <div class="feature-icon">
-                <i class="bi bi-award"></i>
+                <i class="bi bi-calendar"></i>
               </div>
-              <h4>Award Winning</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.</p>
+              <h4>Eventos Especiales</h4>
+              <p>En Mun Club, cada ocasi&oacute;n se transforma en una experiencia inolvidable. Ya sea una cena rom&aacute;ntica, un aniversario o una celebraci&oacute;n privada.</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="300">
             <div class="feature-box">
               <div class="feature-icon">
-                <i class="bi bi-egg-fried"></i>
+                <i class="bi bi-geo-alt"></i>
               </div>
-              <h4>Fresh Ingredients</h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla.</p>
+              <h4>¿Donde estamos?</h4>
+              <p>Ubicados en Boulevard Barra Vieja KM 31, 39936 San Andr&eacute;s Playa Encantada, Gro. (Frente al restaurante El P&uacute;lpito).</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="400">
             <div class="feature-box">
               <div class="feature-icon">
-                <i class="bi bi-people"></i>
+                <i class="bi bi-egg-fried"></i>
               </div>
-              <h4>Expert Team</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</p>
+              <h4>Ingredientes frescos</h4>
+              <p>Cada platillo est&aacute; elaborado con productos locales de la m&aacute;s alta calidad, seleccionados cuidadosamente para preservar su frescura y sabor.</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="500">
             <div class="feature-box">
               <div class="feature-icon">
-                <i class="bi bi-heart"></i>
+                <i class="bi bi-star"></i>
               </div>
-              <h4>Cooked with Love</h4>
-              <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+              <h4>Especialidades de la Casa</h4>
+              <p>Su bebida de la casa, &ldquo;Luna Encantada&rdquo;, es una creaci&oacute;n tropical con agua de coco y toque de mango ahumado. Y su platillo de la casa, &ldquo;Luna Nueva&rdquo;, 
+                es un filete de pescado envuelto en hoja de pl&aacute;tano y ba&ntilde;ado en una salsa de mango.</p>
             </div>
           </div>
         </div>
@@ -270,8 +271,9 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Menu</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Men&uacute;</h2>
+        <p>Descubre nuestra selecci&oacute;n de platillos elaborados con ingredientes frescos y locales, 
+          dise&ntilde;ados para satisfacer todos los gustos y momentos especiales.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up">
@@ -280,84 +282,170 @@
 
           <div class="menu-filters isotope-filters mb-5">
             <ul>
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-starters">Starters</li>
-              <li data-filter=".filter-main">Main Courses</li>
-              <li data-filter=".filter-dessert">Desserts</li>
-              <li data-filter=".filter-drinks">Drinks</li>
+              <li data-filter="" class="filter-active">Todo</li>
+              <li data-filter=".filter-starters">Entrada</li>
+              <li data-filter=".filter-main">Camarones y Cocteles</li>
+              <li data-filter=".filter-dessert">Mixologia y Cocteleria</li>
+              <!-- <li data-filter=".filter-drinks">Drinks</li> -->
             </ul>
           </div>
 
           <div class="menu-container isotope-container row gy-4">
 
-            <!-- Regular Menu Items -->
+            <!-- Regular Menu Items Entrada -->
             <div class="col-lg-6 isotope-item filter-starters">
               <div class="menu-item d-flex align-items-center gap-4">
-                <img src="assets/img/restaurant/starter-2.webp" alt="Starter" class="menu-img img-fluid rounded-3">
+                <img src="assets/img/club/Sopes_estilo_baja.jpeg" alt="Sopes estilo baja" class="menu-img img-fluid rounded-3">
                 <div class="menu-content">
-                  <h5>Bruschetta Trio <span class="menu-tag">Vegetarian</span></h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit curabitur sed.</p>
-                  <div class="price">$8.95</div>
+                  <h5>Sopes Estilo Barra Vieja <span class="menu-tag">Entrada</span></h5>
+                  <p>Con frijoles refritos, queso fresco de la region (5 pz).</p>
                 </div>
               </div>
             </div>
 
             <div class="col-lg-6 isotope-item filter-starters">
               <div class="d-flex menu-item align-items-center gap-4">
-                <img src="assets/img/restaurant/starter-5.webp" alt="Starter" class="menu-img img-fluid rounded-3">
+                <img src="assets/img/club/tostadas_atu.jpeg" alt="Starter" class="menu-img img-fluid rounded-3">
                 <div class="menu-content">
-                  <h5>Calamari Fritti <span class="menu-tag">Seafood</span></h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit curabitur sed.</p>
-                  <div class="price">$10.95</div>
+                  <h5>Tostadas de Atun<span class="menu-tag">Entrada</span></h5>
+                  <p>Trozos de atun fresco, marinado con salsa de soya, limon, naranja, con salsa de chipotle.</p>
                 </div>
               </div>
             </div>
 
-            <div class="col-lg-6 isotope-item filter-main">
+            <div class="col-lg-6 isotope-item filter-starters">
               <div class="d-flex menu-item align-items-center gap-4">
-                <img src="assets/img/restaurant/main-1.webp" alt="Main Course" class="menu-img img-fluid rounded-3">
+                <img src="assets/img/club/Pezcadillas.jpeg" alt="Starter" class="menu-img img-fluid rounded-3">
                 <div class="menu-content">
-                  <h5>Wild Mushroom Risotto <span class="menu-tag">Vegetarian</span></h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit curabitur sed.</p>
-                  <div class="price">$18.95</div>
+                  <h5>Pescadillas<span class="menu-tag">Entrada</span></h5>
+                  <p>Rellenas de pescado con salsa de chipotle de la casa, acompañadas de su ensalada (3 pzs).</p>
                 </div>
               </div>
             </div>
 
+            <div class="col-lg-6 isotope-item filter-starters">
+              <div class="d-flex menu-item align-items-center gap-4">
+                <img src="assets/img/club/_VR_5564.jpg" alt="Starter" class="menu-img img-fluid rounded-3">
+                <div class="menu-content">
+                  <h5>Empanadas de Camaron<span class="menu-tag">Entrada</span></h5>
+                  <p>Empanadas rellenas de camaron con salsa chipotle de la casa de su ensalada.</p>
+                </div>
+              </div>
+            </div>
+
+        <!--fIN Entrada-->
+
+        <!-- Camarones -->
             <div class="col-lg-6 isotope-item filter-main">
               <div class="d-flex menu-item align-items-center gap-4">
-                <img src="assets/img/restaurant/main-4.webp" alt="Main Course" class="menu-img img-fluid rounded-3">
+                <img src="assets/img/club/pasta_camaron.jpg" alt="Main Course" class="menu-img img-fluid rounded-3">
                 <div class="menu-content">
-                  <h5>Braised Lamb Shank <span class="menu-tag">Chef's Choice</span></h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit curabitur sed.</p>
-                  <div class="price">$26.95</div>
+                  <h5>Pasta de Camarones <span class="menu-tag">Camarones</span></h5>
+                  <p>Pasta tipo fetuccini con camarones pelados cocidos, mezclados con crema entera, queso rallado y perejil finamente picado.</p>
+                  
+                </div>
+              </div>
+            </div>
+            <!-- Camarones -->
+
+            <div class="col-lg-6 isotope-item filter-main">
+              <div class="d-flex menu-item align-items-center gap-4">
+                <img src="assets/img/club/coctel_camaron.jpeg" alt="Main Course" class="menu-img img-fluid rounded-3">
+                <div class="menu-content">
+                  <h5>Camaron <span class="menu-tag">Cocteles</span></h5>
+                  <p>Coctel de camarones.</p>
+                  
+                </div>
+              </div>
+            </div>
+
+             <div class="col-lg-6 isotope-item filter-main">
+              <div class="d-flex menu-item align-items-center gap-4">
+                <img src="assets/img/club/coctel_vuelve_a_la_vida.jpg" alt="Main Course" class="menu-img img-fluid rounded-3">
+                <div class="menu-content">
+                  <h5>Vuelve a la Vida<span class="menu-tag">Cocteles</span></h5>
+                  <p>Pulpo cosido, pescado, camarones, mezcla de salsas, jugo de tomate con almeja con toque de salsa picante de la casa.</p>
+                  
                 </div>
               </div>
             </div>
 
             <div class="col-lg-6 isotope-item filter-dessert">
               <div class="d-flex menu-item align-items-center gap-4">
-                <img src="assets/img/restaurant/dessert-2.webp" alt="Dessert" class="menu-img img-fluid rounded-3">
+                <img src="assets/img/club/margarita_de_limon.jpg" alt="Dessert" class="menu-img img-fluid rounded-3">
                 <div class="menu-content">
-                  <h5>Chocolate Lava Cake <span class="menu-tag">Gluten Free</span></h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit curabitur sed.</p>
-                  <div class="price">$9.95</div>
+                  <h5>Margarita de Limon<span class="menu-tag">Mixologia</span></h5>
+                  <p>Preparada tradicionalmente con tequila, jugo de lim&oacute;n natural, licor de naranja y un toque de jarabe.</p>
                 </div>
               </div>
             </div>
 
             <div class="col-lg-6 isotope-item filter-dessert">
               <div class="d-flex menu-item align-items-center gap-4">
-                <img src="assets/img/restaurant/dessert-7.webp" alt="Dessert" class="menu-img img-fluid rounded-3">
+                <img src="assets/img/club/gin_tinic.jpg" alt="Dessert" class="menu-img img-fluid rounded-3">
                 <div class="menu-content">
-                  <h5>Tiramisu <span class="menu-tag">Classic</span></h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit curabitur sed.</p>
-                  <div class="price">$8.95</div>
+                  <h5>Gin Tonic <span class="menu-tag">Mixologia</span></h5>
+                  <p>Es una bebida cl&aacute;sica y elegante, preparada con ginebra de calidad, agua t&oacute;nica y rodajas de lima o pepino. Su sabor refrescante 
+                    y arom&aacute;tico la convierte en una opci&oacute;n perfecta para cualquier ocasi&oacute;n.</p>
+                  
                 </div>
               </div>
             </div>
 
-            <div class="col-lg-6 isotope-item filter-drinks">
+            <div class="col-lg-6 isotope-item filter-dessert">
+              <div class="d-flex menu-item align-items-center gap-4">
+                <img src="assets/img/club/gin_frutos_rojos.jpg" alt="Dessert" class="menu-img img-fluid rounded-3">
+                <div class="menu-content">
+                  <h5>Gin Frutos Rojos<span class="menu-tag">Mixologia</span></h5>
+                  <p>Preparada con ginebra, agua t&oacute;nica y 
+                    una mezcla de frutos rojos como fresas, moras y frambuesas.</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-6 isotope-item filter-dessert">
+              <div class="d-flex menu-item align-items-center gap-4">
+                <img src="assets/img/club/mezcalitas.jpg" alt="Dessert" class="menu-img img-fluid rounded-3">
+                <div class="menu-content">
+                  <h5>Mezcalitas<span class="menu-tag">Mixologia</span></h5>
+                  <p>Elaborada con mezcal, jugo de frutas naturales (como pi&ntilde;a, mango o tamarindo), 
+                    jugo de lim&oacute;n y un toque de chile en polvo.</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-6 isotope-item filter-dessert">
+              <div class="d-flex menu-item align-items-center gap-4">
+                <img src="assets/img/club/mimosas.jpg" alt="Dessert" class="menu-img img-fluid rounded-3">
+                <div class="menu-content">
+                  <h5>Mimosa<span class="menu-tag">Mixologia</span></h5>
+                  <p>Preparada con jugo de naranja natural y vino espumoso, usualmente champ&aacute;n.</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-6 isotope-item filter-dessert">
+              <div class="d-flex menu-item align-items-center gap-4">
+                <img src="assets/img/club/piña_colada.jpg" alt="Dessert" class="menu-img img-fluid rounded-3">
+                <div class="menu-content">
+                  <h5>Pi&ntilde;a Colada<span class="menu-tag">Mixologia</span></h5>
+                  <p>Preparada con jugo de pi&ntilde;a, crema de coco y hielo. 
+                    Puede servirse con ron para una versi&oacute;n con alcohol, o sin &eacute;l para disfrutarla como una deliciosa bebida sin alcohol.</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-6 isotope-item filter-dessert">
+              <div class="d-flex menu-item align-items-center gap-4">
+                <img src="assets/img/club/aperol.jpg" alt="Dessert" class="menu-img img-fluid rounded-3">
+                <div class="menu-content">
+                  <h5>Aperol Spritz<span class="menu-tag">Mixologia</span></h5>
+                  <p>Preparado con Aperol, prosecco y un toque de agua mineral con gas.</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- <div class="col-lg-6 isotope-item filter-drinks">
               <div class="d-flex menu-item align-items-center gap-4">
                 <img src="assets/img/restaurant/drink-3.webp" alt="Drink" class="menu-img img-fluid rounded-3">
                 <div class="menu-content">
@@ -377,53 +465,53 @@
                   <div class="price">$7.95</div>
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
 
         </div>
 
         <div class="text-center mt-5" data-aos="fade-up">
-          <a href="#" class="download-menu">
-            <i class="bi bi-file-earmark-pdf"></i> Download Full Menu
+          <a href="assets/pdf/Mun Club Menu.pdf" class="download-menu">
+            <i class="bi bi-file-earmark-pdf"></i> Descargar Men&uacute;
           </a>
         </div>
 
         <!-- Chef's Specials -->
         <div class="col-12 mt-5" data-aos="fade-up">
           <div class="specials-badge">
-            <span><i class="bi bi-award"></i> Chef's Specials</span>
+            <span><i class="bi bi-award"></i> Sabores Nuevos</span>
           </div>
           <div class="specials-container">
             <div class="row g-4">
               <div class="col-md-6">
                 <div class="menu-item special-item">
                   <div class="menu-item-img">
-                    <img src="assets/img/restaurant/main-3.webp" alt="Special Dish" class="img-fluid">
+                    <img src="assets/img/club/tacos_gobernador.jpeg" alt="Special Dish" class="img-fluid">
                     <div class="menu-item-badges">
-                      <span class="badge-special">Special</span>
-                      <span class="badge-vegan">Vegan</span>
+                      <span class="badge-special">Nuevo</span>
+                      <span class="badge-vegan">Mariscos</span>
                     </div>
                   </div>
                   <div class="menu-item-content">
-                    <h4>Mediterranean Grilled Salmon</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut aliquam metus. Vivamus fermentum magna quis.</p>
-                    <div class="menu-item-price">$24.99</div>
+                    <h4>Tacos Gobernador</h4>
+                    <p>Tortillas doradas rellenas de camarones salteados con pimientos, cebolla y queso derretido, todo sazonado con un toque especial de la casa. Una combinaci&oacute;n 
+                      jugosa y crujiente que captura el sabor del Pac&iacute;fico en cada bocado.</p>
                   </div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="menu-item special-item">
                   <div class="menu-item-img">
-                    <img src="assets/img/restaurant/main-7.webp" alt="Special Dish" class="img-fluid">
+                    <img src="assets/img/club/camarones_rrellenos.jpg" alt="Special Dish" class="img-fluid">
                     <div class="menu-item-badges">
-                      <span class="badge-special">Special</span>
-                      <span class="badge-spicy">Spicy</span>
+                      <span class="badge-special">Nuevo</span>
+                      <span class="badge-spicy">Mariscos</span>
                     </div>
                   </div>
                   <div class="menu-item-content">
-                    <h4>Signature Ribeye Steak</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan risus ut dui pretium, eget elementum nisi.</p>
-                    <div class="menu-item-price">$32.99</div>
+                    <h4>Camarones Rellenos</h4>
+                  <p>Jugosos camarones jumbo rellenos de queso crema y envueltos en tocino crujiente, 
+                    servidos con una salsa especial de la casa. Un platillo indulgente que combina mariscos y sabores ahumados a la perfecci&oacute;n.</p>
                   </div>
                 </div>
               </div>
@@ -436,13 +524,13 @@
     </section><!-- /Menu Section -->
 
     <!-- Testimonials Section -->
-    <section id="testimonials" class="testimonials section">
+    <!-- <section id="testimonials" class="testimonials section">
 
-      <!-- Section Title -->
+  
       <div class="container section-title" data-aos="fade-up">
         <h2>Testimonials</h2>
         <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
+      </div>
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -488,7 +576,7 @@
                   <h4>Ceo &amp; Founder</h4>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-item">
@@ -504,7 +592,7 @@
                   <h4>Designer</h4>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-item">
@@ -520,7 +608,7 @@
                   <h4>Store Owner</h4>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-item">
@@ -536,7 +624,7 @@
                   <h4>Freelancer</h4>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-item">
@@ -552,7 +640,7 @@
                   <h4>Entrepreneur</h4>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
           </div>
           <div class="swiper-pagination"></div>
@@ -560,122 +648,9 @@
 
       </div>
 
-    </section><!-- /Testimonials Section -->
+    </section> -->
+    <!-- /Testimonials Section -->
 
-    <!-- Chefs Section -->
-    <section id="chefs" class="chefs section">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Chefs</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
-
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="row">
-          <div class="col-lg-5">
-            <div class="chef-highlight" data-aos="fade-right" data-aos-delay="200">
-              <figure class="chef-image">
-                <img src="assets/img/restaurant/chef-1.webp" class="img-fluid" alt="Executive Chef">
-              </figure>
-              <div class="chef-details">
-                <h3>Executive Chef</h3>
-                <h2>Gabriel Turner</h2>
-                <div class="chef-awards">
-                  <span><i class="bi bi-star-fill"></i> James Beard Award</span>
-                  <span><i class="bi bi-star-fill"></i> Two Michelin Stars</span>
-                </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor nisi elit.</p>
-                <div class="chef-signature">
-                  <img src="assets/img/misc/signature-1.webp" alt="Chef Signature">
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-7">
-            <div class="team-container" data-aos="fade-left" data-aos-delay="300">
-              <div class="row g-4">
-                <div class="col-md-6">
-                  <div class="chef-card" data-aos="zoom-in" data-aos-delay="200">
-                    <div class="chef-img">
-                      <img src="assets/img/restaurant/chef-2.webp" class="img-fluid" alt="Chef Portrait">
-                      <div class="social-links">
-                        <a href="#"><i class="bi bi-instagram"></i></a>
-                        <a href="#"><i class="bi bi-twitter-x"></i></a>
-                        <a href="#"><i class="bi bi-facebook"></i></a>
-                      </div>
-                    </div>
-                    <div class="chef-info">
-                      <h4>Sophia Martinez</h4>
-                      <p class="role">Pastry Chef</p>
-                      <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim purus a ipsum faucibus, et porttitor.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-6">
-                  <div class="chef-card" data-aos="zoom-in" data-aos-delay="250">
-                    <div class="chef-img">
-                      <img src="assets/img/restaurant/chef-3.webp" class="img-fluid" alt="Chef Portrait">
-                      <div class="social-links">
-                        <a href="#"><i class="bi bi-instagram"></i></a>
-                        <a href="#"><i class="bi bi-twitter-x"></i></a>
-                        <a href="#"><i class="bi bi-facebook"></i></a>
-                      </div>
-                    </div>
-                    <div class="chef-info">
-                      <h4>Marcus Chen</h4>
-                      <p class="role">Sous Chef</p>
-                      <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim purus a ipsum faucibus, et porttitor.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-6">
-                  <div class="chef-card" data-aos="zoom-in" data-aos-delay="300">
-                    <div class="chef-img">
-                      <img src="assets/img/restaurant/chef-4.webp" class="img-fluid" alt="Chef Portrait">
-                      <div class="social-links">
-                        <a href="#"><i class="bi bi-instagram"></i></a>
-                        <a href="#"><i class="bi bi-twitter-x"></i></a>
-                        <a href="#"><i class="bi bi-facebook"></i></a>
-                      </div>
-                    </div>
-                    <div class="chef-info">
-                      <h4>Jonathan Williams</h4>
-                      <p class="role">Head of Bar</p>
-                      <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim purus a ipsum faucibus, et porttitor.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-6">
-                  <div class="chef-card" data-aos="zoom-in" data-aos-delay="350">
-                    <div class="chef-img">
-                      <img src="assets/img/restaurant/chef-5.webp" class="img-fluid" alt="Chef Portrait">
-                      <div class="social-links">
-                        <a href="#"><i class="bi bi-instagram"></i></a>
-                        <a href="#"><i class="bi bi-twitter-x"></i></a>
-                        <a href="#"><i class="bi bi-facebook"></i></a>
-                      </div>
-                    </div>
-                    <div class="chef-info">
-                      <h4>Isabella Romano</h4>
-                      <p class="role">Grill Master</p>
-                      <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim purus a ipsum faucibus, et porttitor.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-    </section><!-- /Chefs Section -->
 
     <!-- Book A Table Section -->
     <section id="book-a-table" class="book-a-table section">
@@ -686,33 +661,33 @@
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="200">
             <div class="reservation-info">
               <div class="text-content">
-                <h3>Book Your Table</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Aliquam erat volutpat.</p>
+                <h3>Reserva tu Mesa</h3>
+                <p>Vive una experiencia gastron&oacute;mica inolvidable. Haz tu reservaci&oacute;n con anticipaci&oacute;n y asegura tu lugar para disfrutar de nuestros platillos en el ambiente perfecto.</p>
 
                 <div class="reservation-details mt-4">
                   <div class="detail-item">
                     <i class="bi bi-clock"></i>
                     <div>
-                      <h5>Opening Hours</h5>
-                      <p>Monday - Friday: 11:00 AM - 11:00 PM<br>
-                        Saturday - Sunday: 10:00 AM - 12:00 AM</p>
+                      <h5>Horarios de Atenci&oacute;n</h5>
+                      <p>Lunes - Domingo: 11:00 AM - 6:00 PM<br>
+                      
                     </div>
                   </div>
 
                   <div class="detail-item">
                     <i class="bi bi-geo-alt"></i>
                     <div>
-                      <h5>Location</h5>
-                      <p>1234 Main Street, Suite 100<br>
-                        Boston, MA 02110</p>
+                      <h5>Ubicaci&oacute;n</h5>
+                      <p>Ubicados en Boulevard Barra Vieja KM 31, 39936 San Andr&eacute;s Playa Encantada, Gro. <br>
+                        (Frente al restaurante El P&uacute;lpito).</p>
                     </div>
                   </div>
 
                   <div class="detail-item">
                     <i class="bi bi-telephone"></i>
                     <div>
-                      <h5>Call Us</h5>
-                      <p>+1 (617) 555-1234</p>
+                      <h5>Ll&aacute;manos</h5>
+                      <p>+52 221 125 8721</p>
                     </div>
                   </div>
                 </div>
@@ -722,7 +697,7 @@
 
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="300">
             <div class="reservation-image">
-              <img src="assets/img/restaurant/showcase-7.webp" alt="Restaurant interior" class="img-fluid rounded">
+              <img src="assets/img/club/DJI_20250202151854_0281_D.jpg" alt="Restaurant interior" class="img-fluid rounded">
             </div>
           </div>
         </div>
@@ -731,8 +706,8 @@
           <div class="col-12" data-aos="fade-up" data-aos-delay="400">
             <div class="reservation-form-wrapper">
               <div class="form-header">
-                <h3>Book A Table</h3>
-                <p>Please fill the form below to make a reservation</p>
+                <h3>Reserva una Mesa</h3>
+                <p>Por favor rellene el siguiente formulario para realizar una reserva.</p>
               </div>
 
               <form action="forms/book-a-table.php" method="POST" role="form" class="php-email-form mt-4">
@@ -748,13 +723,34 @@
                   </div>
                   <div class="col-lg-4 form-group">
                     <select name="people" class="form-select" required="">
-                      <option value="">Numero de personas</option>
+                      <option value="" disabled selected>Numero de personas</option>
                       <option value="1">1 Persona</option>
                       <option value="2">2 Personas</option>
                       <option value="3">3 Personas</option>
                       <option value="4">4 Personas</option>
                       <option value="5">5 Personas</option>
                       <option value="6">6+ Personas</option>
+                    </select>
+                  </div>
+
+                  <div class="col-lg-4 form-group">
+                    <select name="evento" class="form-select" required="">
+                       <option value="" disabled selected>Tipo de Evento</option>
+                      <option value="Boda">Boda</option>
+                      <option value="XV años">XV a&ntilde;os</option>
+                      <option value="Cumpleaños">Cumplea&ntilde;os</option>
+                      <option value="Graduacion">Graduac&iacute;on</option>
+                      <option value="Bautizo">Bautizo</option>
+                      <option value="Baby Shower">Baby Shower</option>
+                      <option value="Primera Comunión">Primera Comuni&oacute;n</option>
+                      <option value="Fiesta Empresarial">Fiesta Empresarial</option>
+                      <option value="Aniversario">Aniversario</option>
+                      <option value="Despedida de Solter@">Despedida de Solter@</option>
+                      <option value="Fiesta Infantil">Fiesta Infantil</option>
+                      <option value="Evento Deportivo">Evento Deportivo</option>
+                      <option value="Reuni&oacute;n Familiar">Reuni&oacute;n Familiar</option>
+                      <option value="Cena Romántica">Cena Rom&aacute;ntica</option>
+                      <option value="Otro">Otro</option>
                     </select>
                   </div>
                   <div class="col-lg-4 form-group">
@@ -771,7 +767,7 @@
 
 
                 <div class="text-center mt-4">
-                  <button type="submit" class="btn-book-table">Book Now</button>
+                  <button type="submit" class="btn-book-table">Reservar Ahora</button>
                 </div>
               </form>
             </div>
@@ -787,8 +783,9 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Location</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Ubicacion</h2>
+        <p>Nos encontramos en un punto estrat&eacute;gico de f&aacute;cil acceso, ideal para recibirte con comodidad y ofrecerte una experiencia inolvidable. 
+          Consulta el mapa y planea tu visita con antelaci&oacute;n.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -803,8 +800,8 @@
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="200">
             <div class="info-container">
               <div class="section-header">
-                <h2>Find Us</h2>
-                <p>Visit Us Today</p>
+                <h2>Encuentranos</h2>
+                <p>Visitanos Hoy</p>
               </div>
 
               <div class="info-card" data-aos="fade-up" data-aos-delay="300">
@@ -812,8 +809,8 @@
                   <i class="bi bi-geo-alt"></i>
                 </div>
                 <div class="info-content">
-                  <h3>Our Location</h3>
-                  <p>123 Culinary Avenue, Manhattan, NY 10001</p>
+                  <h3>Nuestra Ubicacion</h3>
+                  <p>Ubicados en Boulevard Barra Vieja KM 31, 39936 San Andr&eacute;s Playa Encantada, Gro.</p>
                 </div>
               </div>
 
@@ -822,9 +819,9 @@
                   <i class="bi bi-telephone"></i>
                 </div>
                 <div class="info-content">
-                  <h3>Reservations</h3>
-                  <p>+1 (212) 555-7890</p>
-                  <p class="small-text">We recommend making reservations at least 48 hours in advance</p>
+                  <h3>Reservas</h3>
+                  <p>+52 221 125 8721</p>
+                  <p class="small-text">Recuerda reservar con anticipacion</p>
                 </div>
               </div>
 
@@ -833,26 +830,18 @@
                   <i class="bi bi-clock"></i>
                 </div>
                 <div class="info-content">
-                  <h3>Hours</h3>
+                  <h3>Horario</h3>
                   <div class="hours-grid">
-                    <div class="day">Monday - Thursday</div>
-                    <div class="time">11:00 AM - 10:00 PM</div>
+                    <div class="day">Lunes - Domingos</div>
+                    <div class="time">11:00 AM - 06:00 PM</div>
 
-                    <div class="day">Friday - Saturday</div>
-                    <div class="time">11:00 AM - 11:30 PM</div>
-
-                    <div class="day">Sunday</div>
-                    <div class="time">10:00 AM - 9:00 PM</div>
-
-                    <div class="day">Brunch Hours</div>
-                    <div class="time">Sat &amp; Sun, 10:00 AM - 2:00 PM</div>
+                   
                   </div>
                 </div>
               </div>
 
               <div class="cta-wrapper" data-aos="fade-up" data-aos-delay="600">
-                <a href="#" class="btn-book">Make a Reservation</a>
-                <a href="#" class="btn-contact">Contact Us</a>
+                <a href="https://wa.me/5212211258721?text=Hola%20Mun%20Club%2C%20quisiera%20hacer%20una%20reservación" class="btn-contact">Contacto</a>
               </div>
             </div>
           </div>
@@ -868,7 +857,7 @@
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
         <div class="intro-text text-center mb-5" data-aos="fade-up" data-aos-delay="150">
-          <h2>Create Unforgettable Moments</h2>
+          <h2>Crea Momentos Inonvidables</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum.</p>
         </div>
 
@@ -913,19 +902,55 @@
           <div class="row g-3">
             <div class="col-lg-8">
               <div class="main-image" data-aos="zoom-in" data-aos-delay="200">
-                <img src="assets/img/restaurant/event-1.webp" alt="Event Space" class="img-fluid">
+                <img src="assets/img/club/_VR_5509.jpg" alt="Event Space" class="img-fluid">
               </div>
             </div>
+              <div class="col-lg-4">
+              <div class="main-image" data-aos="zoom-in" data-aos-delay="200">
+                <img src="assets/img/club/_VR_6029.jpg" alt="Event Space" class="img-fluid">
+              </div>
+            </div>
+            
             <div class="col-lg-4">
               <div class="row g-3">
                 <div class="col-lg-12 col-md-6">
                   <div class="gallery-item" data-aos="zoom-in" data-aos-delay="250">
-                    <img src="assets/img/restaurant/event-5.webp" alt="Event" class="img-fluid">
+                    <img src="assets/img/club/_VR_5516.jpg" alt="Event" class="img-fluid">
                   </div>
                 </div>
                 <div class="col-lg-12 col-md-6">
                   <div class="gallery-item" data-aos="zoom-in" data-aos-delay="300">
-                    <img src="assets/img/restaurant/event-7.webp" alt="Event" class="img-fluid">
+                    <img src="assets/img/club/_VR_5511.jpg" alt="Event" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4">
+              <div class="row g-3">
+                <div class="col-lg-12 col-md-6">
+                  <div class="gallery-item" data-aos="zoom-in" data-aos-delay="250">
+                    <img src="assets/img/club/_VR_6090.jpg" alt="Event" class="img-fluid">
+                  </div>
+                </div>
+                <div class="col-lg-12 col-md-6">
+                  <div class="gallery-item" data-aos="zoom-in" data-aos-delay="300">
+                    <img src="assets/img/club/_VR_5428.jpg" alt="Event" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+            </div>
+
+             <div class="col-lg-4">
+              <div class="row g-3">
+                <div class="col-lg-12 col-md-6">
+                  <div class="gallery-item" data-aos="zoom-in" data-aos-delay="250">
+                    <img src="assets/img/club/_VR_5516.jpg" alt="Event" class="img-fluid">
+                  </div>
+                </div>
+                <div class="col-lg-12 col-md-6">
+                  <div class="gallery-item" data-aos="zoom-in" data-aos-delay="300">
+                    <img src="assets/img/club/_VR_5511.jpg" alt="Event" class="img-fluid">
                   </div>
                 </div>
               </div>
