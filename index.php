@@ -858,7 +858,7 @@
 
         <div class="intro-text text-center mb-5" data-aos="fade-up" data-aos-delay="150">
           <h2>Crea Momentos Inonvidables</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum.</p>
+          <p>Nos encargamos de cada detalle para que t&uacute; solo te dediques a disfrutar y compartir momentos especiales con quienes m&aacute;s quieres.</p>
         </div>
 
         <div class="event-types">
@@ -868,9 +868,9 @@
                 <div class="icon-wrapper">
                   <i class="bi bi-calendar-heart"></i>
                 </div>
-                <h3>Weddings &amp; Celebrations</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.</p>
-                <span class="capacity">Up to 150 guests</span>
+                <h3>Bodas y Celebraciones</h3>
+                <p>Celebra momentos &uacute;nicos como bodas, aniversarios, cumplea&ntilde;os, bautizos, XV a&ntilde;os y mucho m&aacute;s en un ambiente inolvidable. Cada detalle est&aacute; cuidadosamente planeado para crear recuerdos que durar&aacute;n toda la vida.</p>
+                <span class="capacity">Hasta 150 invitados</span>
               </div>
             </div>
 
@@ -879,9 +879,9 @@
                 <div class="icon-wrapper">
                   <i class="bi bi-building"></i>
                 </div>
-                <h3>Corporate Events</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.</p>
-                <span class="capacity">Up to 100 guests</span>
+                <h3>Eventos Corporativos</h3>
+                <p>Organizamos eventos empresariales con elegancia y eficiencia: conferencias, lanzamientos de productos, cenas ejecutivas y m&aacute;s. Profesionalismo garantizado en cada paso.</p>
+                <span class="capacity">Hasta 100 invitados</span>
               </div>
             </div>
 
@@ -890,9 +890,9 @@
                 <div class="icon-wrapper">
                   <i class="bi bi-people"></i>
                 </div>
-                <h3>Private Gatherings</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.</p>
-                <span class="capacity">Up to 50 guests</span>
+                <h3>Reuniones Privadas</h3>
+                <p>Ideal para reuniones &iacute;ntimas y exclusivas con familiares o amigos. Disfruta de un espacio acogedor y sofisticado para compartir momentos especiales.</p>
+                <span class="capacity">Hasta 50 invitados</span>
               </div>
             </div>
           </div>
@@ -935,7 +935,7 @@
                 </div>
                 <div class="col-lg-12 col-md-6">
                   <div class="gallery-item" data-aos="zoom-in" data-aos-delay="300">
-                    <img src="assets/img/club/_VR_5428.jpg" alt="Event" class="img-fluid">
+                    <img src="assets/img/club/_VR_6065.jpg" alt="Event" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -945,12 +945,12 @@
               <div class="row g-3">
                 <div class="col-lg-12 col-md-6">
                   <div class="gallery-item" data-aos="zoom-in" data-aos-delay="250">
-                    <img src="assets/img/club/_VR_5516.jpg" alt="Event" class="img-fluid">
+                    <img src="assets/img/club/pizza de marisco.jpg" alt="Event" class="img-fluid">
                   </div>
                 </div>
                 <div class="col-lg-12 col-md-6">
                   <div class="gallery-item" data-aos="zoom-in" data-aos-delay="300">
-                    <img src="assets/img/club/_VR_5511.jpg" alt="Event" class="img-fluid">
+                    <img src="assets/img/club/alberca.jpg" alt="Event" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -961,60 +961,68 @@
         <div class="event-cta" data-aos="fade-up" data-aos-delay="200">
           <div class="row align-items-center">
             <div class="col-lg-8">
-              <h3>Ready to plan your special event?</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed justo magna. Contact us today to discuss your requirements.</p>
+              <h3>&iquest;Est&aacute;s listo para planificar tu evento especial?</h3>
+              <p>
+              Estamos aqu&iacute; para ayudarte a hacer realidad tu visi&oacute;n. Cont&aacute;ctanos hoy y descubre c&oacute;mo podemos hacer de tu evento algo inolvidable.
+              </p>
+
             </div>
             <div class="col-lg-4 text-lg-end">
-              <a href="#" class="btn-reserve">Reserve Venue</a>
+              <a href="https://wa.me/5212211258721?text=Hola%20Mun%20Club%2C%20quisiera%20hacer%20una%20reservación" class="btn-reserve">Reservar lugar</a>
             </div>
           </div>
         </div>
 
         <div class="featured-events" data-aos="fade-up" data-aos-delay="200">
-          <h3>Upcoming Featured Events</h3>
+         <h3>Pr&oacute;ximos Eventos Destacados</h3>
+
 
           <div class="row g-4">
             <div class="col-lg-6 col-md-6">
               <div class="featured-event-card" data-aos="fade-up" data-aos-delay="250">
                 <div class="event-date">
-                  <span class="month">Jun</span>
-                  <span class="day">18</span>
+                  <span class="month">Junio</span>
+                  <span class="day">28</span>
                 </div>
                 <div class="event-content">
                   <div class="event-image">
-                    <img src="assets/img/restaurant/event-3.webp" alt="Summer Wine Festival" class="img-fluid">
+                    <img src="assets/img/club/lgbt.jpeg" alt="Summer Wine Festival" class="img-fluid">
                   </div>
                   <div class="event-info">
-                    <h4>Summer Wine Festival</h4>
+                    <h4>Mes del Orgullo</h4>
                     <ul class="event-meta">
-                      <li><i class="bi bi-clock"></i> 6:00 PM - 10:00 PM</li>
-                      <li><i class="bi bi-geo-alt"></i> Garden Terrace</li>
+                      <li><i class="bi bi-clock"></i>Puertas abiertas desde las 11:00 a.m.</li>
+                      <li><i class="bi bi-geo-alt"></i>MCN Beach Pool Club, ubicado en Boulevard Barra Vieja, Playa Encantada, Acapulco Gro</li>
                     </ul>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed justo magna dolor sit amet.</p>
-                    <a href="#" class="btn-details">View Details</a>
+                    <p>Artista invitado: DJ Axel Heru <br>
+                      Es un evento enfocado a la diversión, inclusión, visibilidad y celebración de la diversidad sexual y de género.
+                  </p>
+                    <!-- <a href="#" class="btn-details">View Details</a> -->
                   </div>
                 </div>
               </div>
             </div>
 
-            <div class="col-lg-6 col-md-6">
-              <div class="featured-event-card" data-aos="fade-up" data-aos-delay="300">
+           <div class="col-lg-6 col-md-6">
+              <div class="featured-event-card" data-aos="fade-up" data-aos-delay="250">
                 <div class="event-date">
-                  <span class="month">Jul</span>
-                  <span class="day">05</span>
+                  <span class="month">Junio</span>
+                  <span class="day">28</span>
                 </div>
                 <div class="event-content">
                   <div class="event-image">
-                    <img src="assets/img/restaurant/event-8.webp" alt="Gourmet Tasting Night" class="img-fluid">
+                    <img src="assets/img/club/lgbt.jpeg" alt="Summer Wine Festival" class="img-fluid">
                   </div>
                   <div class="event-info">
-                    <h4>Gourmet Tasting Night</h4>
+                    <h4>Mes del Orgullo</h4>
                     <ul class="event-meta">
-                      <li><i class="bi bi-clock"></i> 7:30 PM - 11:00 PM</li>
-                      <li><i class="bi bi-geo-alt"></i> Main Dining Hall</li>
+                      <li><i class="bi bi-clock"></i>Puertas abiertas desde las 11:00 a.m.</li>
+                      <li><i class="bi bi-geo-alt"></i>MCN Beach Pool Club, ubicado en Boulevard Barra Vieja, Playa Encantada, Acapulco Gro</li>
                     </ul>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed justo magna dolor sit amet.</p>
-                    <a href="#" class="btn-details">View Details</a>
+                    <p>Artista invitado: DJ Axel Heru <br>
+                      Es un evento enfocado a la diversión, inclusión, visibilidad y celebración de la diversidad sexual y de género.
+                  </p>
+                    <!-- <a href="#" class="btn-details">View Details</a> -->
                   </div>
                 </div>
               </div>
@@ -1031,8 +1039,9 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Contacto</h2>
+      <p>Estamos aqu&iacute; para ayudarte. No dudes en comunicarte con nosotros para cualquier consulta, reserva o informaci&oacute;n adicional. 
+        Nuestro equipo estar&aacute; encantado de atenderte y brindarte la mejor atenci&oacute;n.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -1045,8 +1054,9 @@
                 <i class="bi bi-geo-alt"></i>
               </div>
               <div class="info-content">
-                <h4>Our Address</h4>
-                <p>1842 Maple Avenue, Portland, Oregon 97204</p>
+                <h4>Direcci&oacute;n</h4>
+                <p>Ubicados en Boulevard Barra Vieja KM 31, 39936 San Andr&eacute;s Playa Encantada, Gro. (Frente al restaurante El P&uacute;lpito).
+</p>
               </div>
             </div>
           </div>
@@ -1054,12 +1064,12 @@
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
             <div class="contact-info-box">
               <div class="icon-box">
-                <i class="bi bi-envelope"></i>
+                <i class="bi bi-telephone"></i>
               </div>
               <div class="info-content">
-                <h4>Email Address</h4>
-                <p>info@example.com</p>
-                <p>contact@example.com</p>
+                <h4>Telefono</h4>
+                <p>+52 221 125 8721</p>
+                
               </div>
             </div>
           </div>
@@ -1070,9 +1080,9 @@
                 <i class="bi bi-headset"></i>
               </div>
               <div class="info-content">
-                <h4>Hours of Operation</h4>
-                <p>Sunday-Fri: 9 AM - 6 PM</p>
-                <p>Saturday: 9 AM - 4 PM</p>
+                <h4>Horarios</h4>
+                <p>Todos los dias</p>
+                <p>de 11:00 am - 6:00 pm</p>
               </div>
             </div>
           </div>
@@ -1086,7 +1096,7 @@
       </div>
 
       <!-- Contact Form Section (Overlapping) -->
-      <div class="container form-container-overlap">
+      <!-- <div class="container form-container-overlap">
         <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="300">
           <div class="col-lg-10">
             <div class="contact-form-wrapper">
@@ -1141,7 +1151,7 @@
           </div>
         </div>
 
-      </div>
+      </div> -->
 
     </section><!-- /Contact Section -->
 
@@ -1153,61 +1163,51 @@
       <div class="row gy-4">
         <div class="col-lg-5 col-md-12 footer-about">
           <a href="index.html" class="logo d-flex align-items-center">
-            <span class="sitename">NiceRestaurant</span>
+            <span class="sitename">Mun Club</span>
           </a>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+          <p>&iexcl;Ven a disfrutar y descubrir Mun Club, el encanto de una jungla en Acapulco!
+          </p>
           <div class="social-links d-flex mt-4">
-            <a href=""><i class="bi bi-twitter-x"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
+             <a href="https://www.facebook.com/profile.php?id=61573146194185"><i class="bi bi-facebook"></i></a>
+                <a href="https://www.instagram.com/munclub_aca?utm_source=ig_web_button_share_sheet&igsh=MXZiOXViYnc0ZmVwag=="><i class="bi bi-instagram"></i></a>
+                <a href="https://www.tiktok.com/@munclub_aca?is_from_webapp=1&sender_device=pc"><i class="bi bi-tiktok"></i></a>
+                <a href="https://wa.me/5212211258721?text=Hola%20Mun%20Club%2C%20quisiera%20hacer%20una%20reservación"><i class="bi bi-whatsapp"></i></a>
           </div>
         </div>
 
         <div class="col-lg-2 col-6 footer-links">
-          <h4>Useful Links</h4>
+          <h4>Enlaces &uacute;tiles</h4>
           <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About us</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Terms of service</a></li>
-            <li><a href="#">Privacy policy</a></li>
+            <li><a href="index.php">Inicio</a></li>
+            <li><a href="Termino.html">T&eacute;rminos y Condiciones</a></li>
+            <li><a href="Politicas.html">Pol&iacute;ticas de Privacidad</a></li>
           </ul>
         </div>
 
-        <div class="col-lg-2 col-6 footer-links">
-          <h4>Our Services</h4>
-          <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">Product Management</a></li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Graphic Design</a></li>
-          </ul>
-        </div>
+       
 
         <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-          <h4>Contact Us</h4>
-          <p>A108 Adam Street</p>
-          <p>New York, NY 535022</p>
-          <p>United States</p>
-          <p class="mt-4"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-          <p><strong>Email:</strong> <span>info@example.com</span></p>
+          <h4>Cont&aacute;ctenos</h4>
+          <p>Ubicados en Boulevard Barra Vieja KM 31, 39936 San Andr&eacute;s Playa Encantada, Gro.</p>
+          <p class="mt-4"><strong>Tel&eacute;fono:</strong> <span>+52 221 125 8721</span></p>
+          <!-- <p><strong>Email:</strong> <span>info@example.com</span></p> -->
         </div>
 
       </div>
     </div>
 
     <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">NiceRestaurant</strong> <span>All Rights Reserved</span></p>
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">MunClub</strong> <span>Todos los derechos
+          reservados</span></p>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you've purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Diseñado por <a href="https://bootstrapmade.com/">BootstrapMade</a>
       </div>
     </div>
+
 
   </footer>
 
