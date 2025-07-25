@@ -14,3 +14,10 @@ CREATE TABLE reservacion (
   comentarios VARCHAR (100),
   fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
+CREATE TABLE mensajes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    mensaje_usuario TEXT NOT NULL,
+    respuesta_bot TEXT NOT NULL,
+    fecha TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

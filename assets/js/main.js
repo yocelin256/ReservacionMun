@@ -80,13 +80,13 @@
       window.scrollY > 100 ? scrollTop.classList.add('active') : scrollTop.classList.remove('active');
     }
   }
-  scrollTop.addEventListener('click', (e) => {
-    e.preventDefault();
-    window.scrollTo({
-      top: 0,
-      behavior: 'smooth'
-    });
-  });
+  // scrollTop.addEventListener('click', (e) => {
+  //   e.preventDefault();
+  //   window.scrollTo({
+  //     top: 0,
+  //     behavior: 'smooth'
+  //   });
+  // });
 
   window.addEventListener('load', toggleScrollTop);
   document.addEventListener('scroll', toggleScrollTop);
@@ -202,3 +202,52 @@
   document.addEventListener('scroll', navmenuScrollspy);
 
 })();
+
+// CHATBOT
+function toggleChat() {
+    const chat = document.getElementById("chat-container");
+    chat.style.display = (chat.style.display === "none" || chat.style.display === "") ? "block" : "none";
+}
+
+function enviarMensaje() {
+    let mensaje = document.getElementById("mensaje").value.trim();
+    if (mensaje === "") return;
+
+    let chatBox = document.getElementById("chat-box");
+
+    // Burbuja del usuario
+    let msgUsuario = document.createElement("div");
+    msgUsuario.style.alignSelf = "flex-end";
+    msgUsuario.style.color = "#5a3b2e"; // cálido claro
+    msgUsuario.style.padding = "8px 12px";
+    msgUsuario.style.borderRadius = "18px 18px 0 18px";
+    msgUsuario.style.maxWidth = "80%";
+    msgUsuario.style.fontSize = "14px";
+    msgUsuario.style.boxShadow = "0 1px 4px rgba(0,0,0,0.1)";
+    msgUsuario.textContent = mensaje;
+    chatBox.appendChild(msgUsuario);
+
+    fetch("forms/chatbot.php", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/x-www-form-urlencoded"
+        },
+        body: "mensaje=" + encodeURIComponent(mensaje)
+    })
+    .then(response => response.text())
+    .then(data => {
+        let msgBot = document.createElement("div");
+        msgBot.style.alignSelf = "flex-start";
+        msgBot.style.color = "#35241dff";  // cálido neutro
+        msgBot.style.padding = "8px 12px";
+        msgBot.style.borderRadius = "18px 18px 18px 0";
+        msgBot.style.maxWidth = "80%";
+        msgBot.style.fontSize = "14px";
+        msgBot.style.boxShadow = "0 1px 4px rgba(0,0,0,0.1)";
+        msgBot.textContent = data;
+        chatBox.appendChild(msgBot);
+        chatBox.scrollTop = chatBox.scrollHeight;
+    });
+
+    document.getElementById("mensaje").value = "";
+}
