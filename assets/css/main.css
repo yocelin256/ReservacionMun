@@ -23,7 +23,7 @@
   --default-color: #f1f3f5; /* Default color used for the majority of the text content across the entire website */
   --heading-color: #f4f7fa; /* Color for headings, subheadings and title throughout the website */
   --accent-color: #ceaf7f; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
-  --surface-color: #252a2b; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
+  --surface-color: #a37557; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
   --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
 }
 
@@ -67,13 +67,23 @@ body {
 }
 
 body::before {
-  background: linear-gradient(color-mix(in srgb, #000000, transparent 30%), color-mix(in srgb, #000000, transparent 30%)), url("../img/bg/abstract-bg-4.webp") no-repeat center center/cover;
+  background: linear-gradient(color-mix(in srgb, #000000, transparent 30%), color-mix(in srgb, #000000, transparent 30%)), url("../img/bg/fondo_tropical.jpg") no-repeat center center/cover;
   content: "";
   position: fixed;
   inset: 0;
   z-index: 0;
   pointer-events: none;
 }
+
+.video-responsive {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  display: block;
+  margin: 0 auto;
+}
+
 
 a {
   color: var(--accent-color);
@@ -222,7 +232,7 @@ h6 {
 /* Global Header on Scroll
 ------------------------------*/
 .scrolled .header {
-  --background-color: rgba(0, 0, 0, 0.8);
+  --background-color: rgba(124, 86, 61, 0.7);
 }
 
 /*--------------------------------------------------------------

@@ -118,7 +118,7 @@ if($conn->query($sql) === TRUE){
 
    // Preparar mensaje para WhatsApp
 $mensaje = "NUEVA RESERVACIÓN\nNombre: $name\nCorreo: $email\nTeléfono: $phone\nPersonas: $people\nTipo de Evento: $evento\nFecha: $date\nHora: $time\nComentario: $message";
-$numero = "527443754594"; // Número del dueño
+$numero = "522211258721"; // Número del dueño
 $mensaje_url = urlencode($mensaje);
 $link_wa = "https://wa.me/$numero?text=$mensaje_url";
 
