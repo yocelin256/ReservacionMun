@@ -24,7 +24,7 @@ $respuestas = [
     "agradecimiento" => [
         "palabras" => ["gracias", "muchas gracias", "mil gracias", "te lo agradezco", "gracias totales", "se agradece"],
         "respuesta" => "¡De nada! Te esperamos pronto 😊"
-    ],  
+    ],
     "contacto" => [
     "palabras" => ["contacto", "teléfono", "número", "cómo los contacto", "cómo comunicarme", "hablar con alguien", "whatsapp", "mandar mensaje", "me puedo comunicar", "para contactarlos"],
     "respuesta" => "¡Claro! Puedes comunicarte con nosotros al número: +52 221 125 8721 📞"
