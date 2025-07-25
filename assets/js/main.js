@@ -226,7 +226,7 @@ function enviarMensaje() {
     msgUsuario.style.boxShadow = "0 1px 4px rgba(0,0,0,0.1)";
     msgUsuario.textContent = mensaje;
     chatBox.appendChild(msgUsuario);
-
+ 
     fetch("forms/chatbot.php", {
         method: "POST",
         headers: {
